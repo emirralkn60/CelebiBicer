@@ -1,3 +1,7 @@
+body,html{
+    scroll-behavior: smooth;
+}
+
 body {
     background-image: url("https://p4.wallpaperbetter.com/wallpaper/299/438/475/dark-red-earth-gradation-wallpaper-preview.jpg");
     background-size:cover;
