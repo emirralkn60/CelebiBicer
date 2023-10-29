@@ -1,0 +1,234 @@
+body {
+    background-image: url("https://p4.wallpaperbetter.com/wallpaper/299/438/475/dark-red-earth-gradation-wallpaper-preview.jpg");
+    background-size:cover;
+    background-attachment: fixed;
+  }
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #249191;
+    color: #000000;
+}
+
+.container {
+    
+    font-size: 231%;
+    width: 100%;
+    margin: 0 auto;
+}
+
+header, nav, section, footer {
+    padding: 40px 0;
+}
+
+header {
+    padding: 300px;
+    background-image: url('https://p4.wallpaperbetter.com/wallpaper/505/301/174/aurora-blur-rainbow-color-wallpaper-preview.jpg');
+    background-size: cover; /* Resmi öğenin boyutuna sığdır */
+    background-repeat: no-repeat; /* Tekrar etmeyi önle */
+    background-color: transparent; /* Arka plan rengini şeffaf yapabilirsiniz */
+  
+    color: #fff;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+}
+
+section {
+    background-color: #e96fb6;
+    text-align: center;
+}
+
+.proje {
+    margin-top: 20px;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+input[type="text"],
+    input[type="email"],
+    textarea {
+
+      width: 80%;
+      padding: 25px;
+      border-radius: 100px;
+      border: 1px solid #b8b6b6;
+    }
+    button[type="submit"] {
+      background-color:#333;
+      color: #fff;
+      padding: 10px 20px;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      transition: background-color 0.3s ease;
+    }
+    button[type="submit"]:hover {
+        background-color: #ff6f00;
+      }
+
+
+
+
+      
+.abilities {
+    background-color: #f9f9f9;
+    padding: 40px;
+    text-align: center;
+}
+
+.abilities h2 {
+    font-size: 3em;
+    margin-bottom: 20px;
+}
+
+.abilities-row {
+    display: flex;
+    justify-content: center;
+}
+
+.abilities-column {
+    flex: 1;
+}
+
+/* Yetenek Kutuları */
+.abilities-box {
+    background-color: #fff;
+    border: 1px solid #e5e5e5;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 10px;
+}
+
+/* Yetenekler */
+.abilities-content {
+    text-align: left;
+}
+
+/* Yetenek İlerleme Çubukları */
+.progress {
+    margin-bottom: 20px;
+}
+
+.progress h3 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.progress a {
+    text-decoration: none;
+    color: #333;
+    margin-left: 10px;
+}
+
+.progress i {
+    font-size: 1.5em;
+}
+
+.bar {
+    background-color: #e5e5e5;
+    height: 10px;
+    border-radius: 5px;
+}
+
+.bar span {
+    display: block;
+    width: 50%; /* Örnek olarak, burada yetenek yüzdesini belirleyebilirsiniz */
+    height: 100%;
+    background-color: #d6e7e6; /* İlerleme çubuğunun rengi */
+    border-radius: 5px;
+}
+/* Yetenekler Bölümü */
+.abilities {
+    background-image: url('https://p4.wallpaperbetter.com/wallpaper/505/301/174/aurora-blur-rainbow-color-wallpaper-preview.jpg');
+    background-size: cover; /* Resmi öğenin boyutuna sığdır */
+    background-repeat: no-repeat; /* Tekrar etmeyi önle */
+    background-color: transparent
+   
+}
+
+.abilities h2 {
+    font-size: 3em;
+    margin-bottom: 331px;
+}
+
+.abilities-row {
+    display: flex;
+    justify-content: center;
+}
+
+.abilities-column {
+    flex: 1;
+}
+
+/* Yetenek Kutuları */
+.abilities-box {
+    background-color: #000000;
+    border: 1px solid #fdfdfd;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 10px;
+}
+
+/* Yetenekler */
+.abilities-content {
+    text-align: left;
+}
+
+/* Yetenek İlerleme Çubukları */
+.progress {
+    margin-bottom: 20px;
+}
+
+.progress h3 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.progress a {
+    text-decoration: none;
+    color: #000000;
+    margin-left: 10px;
+}
+
+.progress i {
+    font-size: 1.5em;
+}
+
+.bar {
+    background-color: #c9c1c1;
+    height: 10px;
+    border-radius: 5px;
+}
+
+.bar span {
+    display: block;
+    width: 70%; /* Örnek olarak, burada yetenek yüzdesini belirleyebilirsiniz */
+    height: 100%;
+    background-color: #007bff; /* İlerleme çubuğunun rengi */
+    border-radius: 5px;
+}
